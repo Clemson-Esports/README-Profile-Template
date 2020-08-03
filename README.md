@@ -17,7 +17,7 @@ description of current project
 ### Skills
 Talk about your skills!
 
-You can use the following link for different programming language icons:
+You can use the following link for different programming language icons:\
 https://cdn.jsdelivr.net/npm/programming-languages-logos/src
 
 You can also use your own pictures, just add it to the asset folder
@@ -25,7 +25,7 @@ You can also use your own pictures, just add it to the asset folder
 ### Links 
 This section can include any link to social media pages, your person website, or LinkedIn page.
 
-This repo has a lot of differnt icons:
+This repo has a lot of differnt icons:\
 https://github.com/edent/SuperTinyIcons
 
 ### Other Cool things
