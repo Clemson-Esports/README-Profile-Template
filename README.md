@@ -7,7 +7,7 @@
 Follow with different sections (below are some examples)
 
 ### Projects
-Example project badge:
+Example project badge:\
   <a href="https://github.com/Clemson-Esports/README-Profile-Template">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Clemson-Esports&repo=README-Profile-Template" />
   </a>\
